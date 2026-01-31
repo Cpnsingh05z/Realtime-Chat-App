@@ -1,6 +1,0 @@
-/* @import "tailwindcss";
-@plugin "daisyui"; */
-@import "tailwindcss";
-@plugin "daisyui" {
-  themes: all; /* ya specific themes: "dark", "light" */
-}
